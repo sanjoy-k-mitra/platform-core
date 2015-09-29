@@ -1,0 +1,29 @@
+{
+  "name": "platform-core",
+  "version": "1.",
+  "homepage": "https://github.com/sanjoy-k-mitra/platform-core",
+  "authors": [
+    "sanjoy <sanjoy120@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/webapp/resources/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "angular-bootstrap": "~0.13.4",
+    "angular-resource": "~1.4.6",
+    "font-awesome": "fontawesome#~4.4.0"
+  }
+}
