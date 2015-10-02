@@ -1,4 +1,7 @@
 *.iml
 .idea
 
+.gradle
+build
+
 src/main/webapp/resources/lib
